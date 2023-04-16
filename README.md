@@ -1,14 +1,11 @@
-<!-- [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edimarfreitas95@gmail.com "GMail")
-
- -->
-
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://github.com/EdimarDeSa/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=EdimarDeSa&count_private=true&show_icons=true&theme=tokyonight&">
+    </a>
+    <a href="https://github.com/EdimarDeSa/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimarDeSa&theme=tokyonight&">
     </a>
 </div>
-
 
 > ## Redes Sociais
 > [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px"/>](https://github.com/EdimarDeSa)
