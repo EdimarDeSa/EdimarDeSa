@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px"/>
 
 <br/>
+
 ![Snake animation](https://github.com/EdimarDeSa/EdimarDeSa/blob/output/github-contribution-grid-snake.svg)
 
 <!-- > ## Frameworks mais usadas
