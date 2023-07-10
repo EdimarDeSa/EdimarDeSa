@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <a href="https://github.com/EdimarDeSa/github-readme-stats">
+    <a href="https://github.com/EdimarDeSa/">
         <img src="https://github-readme-stats.vercel.app/api?username=EdimarDeSa&count_private=true&show_icons=true&theme=tokyonight&">
     </a>
     <a href="https://github.com/EdimarDeSa/github-readme-stats">
