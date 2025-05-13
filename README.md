@@ -12,10 +12,10 @@
 </div>
 
 ## 🚀 Sobre Mim
-<p> Desenvolvedor apaixonado por tecnologia <strong>sempre</strong> buscando aprender novas tecnologias e melhorar minhas habilidades.  </p>
-<p> Com foco em Back-End e experiência em soluções de alta performance, integração de APIs e arquitetura de micro serviços. </p>
-<p> Especializado em Python, FastAPI e SQLAlchemy, focado em clean code e código manutenível. </p>
-<p> Busco desafios que acelerem meu crescimento para posições seniores. </p>
+<p> Desenvolvedor backend especializado em Python com expertise em APIs de alta performance e arquitetura de microsserviços. Desenvolvo código limpo e manutenível usando FastAPI, SQLAlchemy e padrões de design modernos. </p>
+<p>Meu toolkit técnico inclui principalmente Python, Django, FastAPI, PostgreSQL, Docker, RabbitMQ e Git.</p>
+
+[Visite meu site!](https://www.efscode.com.br)
 
 ## 🛠 Habilidades Técnicas
 
